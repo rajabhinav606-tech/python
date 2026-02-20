@@ -1,0 +1,6 @@
+print("Hello World!")
+print("This is my first Python program.")
+print("I am learning Python programming.")
+print("Python is a great language for beginners.")
+print("I am excited to learn more about Python.")
+print("I can use Python for web development, data analysis, and more!")
